@@ -19,7 +19,7 @@ I also learnt a number of key methodologies and industry practices, such as:
 - Axios
 
 ---
-In my final group project with Northcoders, we worked on a local artist gallery website with potential to become a ecommerce platform. It's still a work in progress as the team is still enthusiastic to polish it off. We combined the knowledge we gained from the course, spiked a few new technologies and added a few more languages and frameworks/libraries to our arsenal:
+In my final group project with Northcoders, we worked on a local artist gallery website with potential to become a ecommerce platform. It's still a work in progress as the team are still enthusiastic to polish it off. We combined the knowledge we gained from the course, spiked a few new technologies and added a few more languages and frameworks/libraries to our arsenal:
 
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Material UI](https://img.shields.io/badge/materialui-%230081CB.svg?style=for-the-badge&logo=material-ui&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
 
