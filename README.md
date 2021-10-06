@@ -37,7 +37,7 @@ I'm interested in honing my current knowledge but also in learning new languages
 ---
 
 ## Currently Working on...
-- [ ] Create a To Do List App with Vue.js
+- [x] Create a To Do List App with Vue.js
 - [ ] Learn the basics of TypeScript
 - [ ] Polishing my past projects
 - [ ] Start on my own book record/review app
