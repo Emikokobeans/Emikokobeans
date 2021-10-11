@@ -39,7 +39,7 @@ I'm interested in honing my current knowledge but also in learning new languages
 ## Currently Working on...
 - [x] Create a To Do List App with Vue.js
 - [x] Learn the basics of TypeScript
-- [ ] Build a quiz app with TypeScript
+- [x] Build a quiz app with TypeScript
 - [ ] Polishing my past projects
 - [ ] Start on my own book record/review app
 - [ ] Improving my Adobe XD knowledge
